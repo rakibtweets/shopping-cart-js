@@ -1,4 +1,5 @@
-
+// learning function js
+// i am emjoying this with js
 // update case function
 
 function updateProductNumber(product,price,isIncreasing){
